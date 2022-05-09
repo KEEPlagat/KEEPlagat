@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kilagat
 - 👀 I’m interested in C#
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently using C#
 - 📫 How to reach me meshkeep@gmail.com
 
 <!---
